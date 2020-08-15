@@ -1,24 +1,12 @@
 # Tasks
 
   Project of the first video of Groxio Elixir Series.
-  Create an mix task.
+  Create a mix task.
 
-**TODO: Add description**
+### Thigs to remember
+  - @moduledoc -> shows when you type: mix help #{name of task}
+  - @shortdoc -> appears once you type mix help.
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `tasks` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:tasks, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/tasks](https://hexdocs.pm/tasks).
-
+### How to use the task:
+    Read description on the module task:
+    `./lib/tasks/count.ex`
